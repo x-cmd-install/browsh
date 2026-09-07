@@ -5,13 +5,13 @@ about:
   head: 499ef38
   archived: false
   latestVersion: "v1.8.3"
-  collectedAt: 2026-09-07T05:47:51Z
+  collectedAt: 2026-09-07T18:46:54Z
 timeline:
   created: 2016-05-08
   lastCommit: 2025-07-11
   lastRelease: 2024-01-29
 popularity:
-  star: 19029
+  star: 19031
   watcher: 185
   fork: 482
   release: 44
@@ -85,7 +85,7 @@ total:
   commit: 429
 ---
 path: /home/runner/.x-repo/github.com/browsh-org/browsh
-collectedAt: 2026-09-07T05:47:52Z
+collectedAt: 2026-09-07T18:46:57Z
 loc:
   Json:
     code: 18052
@@ -257,7 +257,7 @@ checks:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:47:53+00:00
+  collectedAt: 2026-09-07T18:46:59+00:00
   platform:
     darwin/arm64:
       name:  null
