@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.8.3"
   latestRelease: "v1.8.3"
   latestPrerelease: "v0.2.14"
-  collectedAt: 2026-09-09T05:49:30Z
+  collectedAt: 2026-09-09T20:16:09Z
 timeline:
   created: 2016-05-08
   lastCommit: 2025-07-11
@@ -89,7 +89,7 @@ total:
   commit: 429
 ---
 path: /home/runner/.x-repo/github.com/browsh-org/browsh
-collectedAt: 2026-09-09T05:49:31Z
+collectedAt: 2026-09-09T20:16:12Z
 loc:
   Json:
     code: 18052
