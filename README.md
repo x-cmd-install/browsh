@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,035 · **Forks**: 482 · **Open issues**: 438 · **Contributors**: 31
+- **Stars**: 19,038 · **Forks**: 482 · **Open issues**: 438 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -58,27 +58,18 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 1 | 2 | 0 |
-| 360d | 2025-09-18 | 0 | 0 | 0 | 2 | 7 | 0 |
-| last720d | 2024-09-23 | 0 | 1 | 1 | 11 | 18 | 2 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 1 | 2 | 0 |
+| 360d | 2025-09-19 | 0 | 0 | 0 | 2 | 7 | 0 |
+| last720d | 2024-09-24 | 0 | 1 | 1 | 11 | 17 | 2 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [browsh-1.8.3.xpi](https://github.com/browsh-org/browsh/releases/download/v1.8.3/browsh-1.8.3.xpi) | 772.9 KiB | `other` |
-
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/browsh). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.8.3` | ✅ latest |
-| Void | `1.6.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -89,4 +80,4 @@ Install metadata for browsh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:53:43Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:20:09Z._
