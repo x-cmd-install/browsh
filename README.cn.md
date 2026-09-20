@@ -4,7 +4,7 @@
 
 A fully-modern text-based browser, rendering to TTY and browsers
 
-![browsh](https://repo.x-cmd.io/browsh.svg?lang=zh)
+[![x-cmd/install — browsh Code Quality Monitoring Repo Card](https://repo.x-cmd.io/browsh.svg?lang=zh)](https://x-cmd.com/install/browsh)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install browsh
 
 ## 流行度
 
-- **Star**: 19,049 · **Fork**: 482 · **开放 issue**: 438 · **贡献者**: 31
+- **Star**: 19,051 · **Fork**: 481 · **开放 issue**: 438 · **贡献者**: 31
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install browsh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 1 | 1 | 0 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 2 | 7 | 0 |
-| last720d | 2024-09-28 | 0 | 1 | 1 | 11 | 17 | 2 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 2 | 7 | 0 |
+| last720d | 2024-09-30 | 0 | 1 | 1 | 11 | 17 | 2 |
 
 ## Release 资产
 
@@ -80,4 +80,4 @@ browsh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:04:52Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:10:13Z._
