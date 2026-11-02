@@ -58,27 +58,18 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 0 | 1 | 6 | 0 |
-| last720d | 2024-11-11 | 0 | 1 | 1 | 11 | 16 | 2 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 0 | 1 | 6 | 0 |
+| last720d | 2024-11-12 | 0 | 1 | 1 | 11 | 16 | 2 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [browsh-1.8.3.xpi](https://github.com/browsh-org/browsh/releases/download/v1.8.3/browsh-1.8.3.xpi) | 772.9 KiB | `other` |
-
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/browsh). **9** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.8.3` | ✅ latest |
-| Void | `1.6.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -89,4 +80,4 @@ Install metadata for browsh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:16:20Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:08:44Z._
