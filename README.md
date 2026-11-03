@@ -14,7 +14,7 @@ x install browsh
 
 ## Code insight
 
-Total: **25,190** lines of code across **67** files in the top 5 languages.
+Total: **25,197** lines of code across **67** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,33 +43,42 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.8.3` (2024-01-29)
-- **Last commit**: 2025-07-11
+- **Last commit**: 2026-11-02
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 19,109 · **Forks**: 480 · **Open issues**: 438 · **Contributors**: 31
+- **Stars**: 19,111 · **Forks**: 482 · **Open issues**: 438 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 13 · **Closed issues**: 210 · **Open issues**: 228 · **Commits**: 429
+- **Releases**: 44 · **Merged PRs**: 63 · **Open PRs**: 13 · **Closed issues**: 210 · **Open issues**: 228 · **Commits**: 430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 360d | 2025-11-07 | 0 | 0 | 0 | 1 | 6 | 0 |
-| last720d | 2024-11-12 | 0 | 1 | 1 | 11 | 16 | 2 |
+| 30d | 2026-10-04 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-04 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-05 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-07 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 360d | 2025-11-08 | 0 | 1 | 0 | 1 | 6 | 1 |
+| last720d | 2024-11-13 | 0 | 2 | 1 | 11 | 16 | 3 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [browsh-1.8.3.xpi](https://github.com/browsh-org/browsh/releases/download/v1.8.3/browsh-1.8.3.xpi) | 772.9 KiB | `other` |
+
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/browsh). **9** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.8.3` | ✅ latest |
+| Void | `1.6.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -80,4 +89,4 @@ Install metadata for browsh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:08:44Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:53:31Z._
