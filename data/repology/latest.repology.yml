@@ -27,7 +27,7 @@
   binname: browsh
   visiblename: www/browsh
   version: 1.8.3
-  origversion: 1.8.3_2
+  origversion: 1.8.3_3
   status: newest
   summary: Text-based browser supporting HTML5, CSS3, JS, video and WebGL
   maintainers:
